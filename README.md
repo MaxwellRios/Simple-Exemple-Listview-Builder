@@ -1,8 +1,13 @@
-# listview_builder
+# Um exemplo simples usando Listview/Builder
 
 A new Flutter project.
 
 ![001](https://user-images.githubusercontent.com/3016393/196068673-9ddde1d4-fe12-4dac-a72a-76c6bc3036e9.gif)
+
+## 🛠️ Construído com
+
+* [Flutter](https://docs.flutter.dev/) - Framework
+* [Dart](https://dart.dev/guides)      - Back-end
 
 ## Getting Started
 
